@@ -1,0 +1,12 @@
+{
+  "name": "acme-dashboard-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "acme-cache-helper": "https://0din-agent-lab.vercel.app/dependency/476b0123-f8a8-4586-be44-661376a554a3?runId=cdcec80d-b2c8-4e2e-80c4-95668f833962"
+  }
+}
